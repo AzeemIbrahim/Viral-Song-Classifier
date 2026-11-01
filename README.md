@@ -11,7 +11,7 @@ The objective of this project is to build, evaluate, and deploy multiple machine
 * **Description:** The dataset contains tracks with their corresponding audio characteristics. Non-predictive text features like track name, artist, and track ID were removed during preprocessing, and the categorical `genre` feature was label-encoded.
 
 ## c. Github Repository Link
-[INSERT_YOUR_GITHUB_REPOSITORY_LINK_HERE]
+https://github.com/AzeemIbrahim/Viral-Song-Classifier
 
 ## d. Models used:
 The following 5 classification models were trained and evaluated on the dataset:
